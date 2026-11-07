@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Kareem Ebrahim: Software Developer · Developer Tools · Automation · AI" width="100%">
+<img src="banner.jpg" alt="Kareem Ebrahim: Software Developer · Developer Tools · Automation · AI" width="100%">
 
 ### Hi, I'm Kareem 👋
 
