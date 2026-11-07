@@ -18,6 +18,7 @@ More projects are on the way.
 
 ### Tools I work with
 
+![Python](https://img.shields.io/badge/Python-111?logo=python&logoColor=3776ab)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?logo=javascript&logoColor=f7df1e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?logo=typescript&logoColor=3178c6)
 ![Node.js](https://img.shields.io/badge/Node.js-111?logo=nodedotjs&logoColor=5fa04e)
