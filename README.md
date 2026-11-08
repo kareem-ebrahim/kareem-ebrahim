@@ -12,7 +12,7 @@ how to use it.
 
 | Project | What it does |
 |---|---|
-| [**Live Pulse**](https://github.com/kareem-ebrahim/live-pulse) | A live, full-screen dashboard of every Claude Code session on your machine: sessions, subagents, the files they edit, real diffs, commands, background shells and context, in its own terminal window. |
+| [**Live Pulse**](https://github.com/kareem-ebrahim/live-pulse) | A live mission-control screen for Claude Code (Windows). Every session on your computer as an animated creature, with seven pages: timeline, network, files, cost, a deep inspector and totals across all your projects. An AUTO mode tours the screen by itself, and a Windows notification tells you when a session needs you. |
 
 More projects are on the way.
 
